@@ -35,6 +35,6 @@ Trabalho final da matéria de BI na Pós Graduação em BI-Master na PUC-RJ
 
 - O melhor desempenho obtido teve Acurácia de 97,07% e Kappa de 0,941
 
-- O arquivo [Trabalho Final - DM - Fernando Mauro Buleo Barbosa.docx](https://github.com/buleo/Problema-de-Classificacao/blob/main/Trabalho%20Final%20-%20DM%20-%20Fernando%20Mauro%20Buleo%20Barbosa.docx) em anexo contém relatório detalhando o modelo desenvolvido e os experimentos realizados
+- O arquivo [Trabalho Final - BI(LEONARDO) - Fernando Mauro Buleo Barbosa.docx](https://github.com/buleo/Analise-de-Sentimento/blob/main/Trabalho%20Final%20-%20BI(LEONARDO)%20-%20Fernando%20Mauro%20Buleo%20Barbosa.docx) em anexo contém relatório detalhando o modelo desenvolvido e os experimentos realizados
 
 ## Arquivos
