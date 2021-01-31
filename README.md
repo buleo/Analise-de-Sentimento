@@ -38,3 +38,7 @@ Trabalho final da matéria de BI na Pós Graduação em BI-Master na PUC-RJ
 - O arquivo [Trabalho Final - BI(LEONARDO) - Fernando Mauro Buleo Barbosa.docx](https://github.com/buleo/Analise-de-Sentimento/blob/main/Trabalho%20Final%20-%20BI(LEONARDO)%20-%20Fernando%20Mauro%20Buleo%20Barbosa.docx) em anexo contém relatório detalhando o modelo desenvolvido e os experimentos realizados
 
 ## Arquivos
+- "Trabalho Final - BI(LEONARDO) - Fernando Mauro Buleo Barbosa.docx" - Relatório detalhando o modelo desenvolvido e os experimentos realizados
+- "Hoteis - TextProcessing-PassoAPasso.rmp" - Arquivo em [RapidMiner](https://rapidminer.com/) com o modelo desenvolvido
+- "hoteis.arff" - Arquivo com a base de comentários classificados para treino e teste do modelo
+- "StopWords.txt" - Arquivo com a relação de StopWords consideradas no modelo
