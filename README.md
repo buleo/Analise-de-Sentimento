@@ -23,5 +23,18 @@ Trabalho final da matéria de BI na Pós Graduação em BI-Master na PUC-RJ
 
 ## Resumo do Trabalho Desenvolvido
 
+- O trabalho foi desenvolvido em [RapidMiner](https://rapidminer.com/)
+
+- Dentre as simulações realizadas a que proporcionou o melhor desempenho conta com a aplicação das seguintes técnicas:
+  - Tokenização
+  - Filtragem de StopWords
+  - Stemização (SnowBall)
+  - TF-IDF com aplicação de Método Prune
+  - Seleção de Atributos pelo Peso da Correlação deles com o Atributo Label (resultado esperado) 
+  - Aplicação do Modelo SVM 
+
+- O melhor desempenho obtido teve Acurácia de 97,07% e Kappa de 0,941
+
+- O arquivo [Trabalho Final - DM - Fernando Mauro Buleo Barbosa.docx](https://github.com/buleo/Problema-de-Classificacao/blob/main/Trabalho%20Final%20-%20DM%20-%20Fernando%20Mauro%20Buleo%20Barbosa.docx) em anexo contém relatório detalhando o modelo desenvolvido e os experimentos realizados
 
 ## Arquivos
